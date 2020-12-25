@@ -1,0 +1,16 @@
+version: '3'
+services: 
+    nginx:
+        build: 
+            context: ./nginx
+        image: niizamul/nginx
+        links:
+            - kestrel:kestrel
+        ports:
+            - "8080:80"
+    kestrel:
+        build: 
+            context: ./src
+        image: niizamul/sample-project
+        expose:
+            - "80"

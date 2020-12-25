@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "wupTudMDHiOfeCNooBLiGny9rJC5hP7wgAydXx5ver6UGbPvGZrNCuzHfjDucj11PK84FprfnFxD6v0Cvu8b4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nizamul\\Desktop\\sample-project\\src\\sample-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.1\\microsoft.aspnetcore.spaservices.extensions.5.0.1.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\5.0.1\\microsoft.netcore.app.runtime.linux-arm64.5.0.1.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.1\\microsoft.netcore.app.runtime.win-x64.5.0.1.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.1.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\5.0.1\\microsoft.aspnetcore.app.runtime.linux-arm64.5.0.1.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.1\\microsoft.aspnetcore.app.runtime.win-x64.5.0.1.nupkg.sha512",
+    "C:\\Users\\Nizamul\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\5.0.1\\microsoft.netcore.app.host.linux-arm64.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
